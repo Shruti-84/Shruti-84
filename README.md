@@ -29,7 +29,6 @@
 
 ## 👀 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=Shruti-84&color=blue&style=flat)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Shruti-84)
 
 
 ## 📫 Reach Me:  
