@@ -10,6 +10,7 @@
       Data-driven projects in the finance domain
       Open-source automation or Python-based solutions
 - ⚡ Fun fact: I started my journey as a graphics designer and now lead automation projects using Python and AI!
+  
   ## 🌐 Socials:
      [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](shrutibansal.84) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([your-linkedin-profile-link](https://www.linkedin.com/in/shruti-bansal-b29727258))
 
@@ -25,6 +26,11 @@
 
 ## 🔝 Top Contributed Repo  
 ![](https://github-contributor-stats.vercel.app/api?username=Shruti-84&limit=1&theme=radical)  
+
+## 👀 Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=Shruti-84&color=blue&style=flat)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Shruti-84)
+
 
 ## 📫 Reach Me:  
 [![GitHub](https://img.shields.io/badge/GitHub-Shruti-84-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/Shruti-84)  
