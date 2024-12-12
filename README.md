@@ -1,3 +1,4 @@
+# 💫 About Me:
 - 👋 Hi, I’m Shruti Bansal (@Shruti-84)
 - 👀 I’m interested in:
       Data Science, Machine Learning, and Artificial Intelligence
